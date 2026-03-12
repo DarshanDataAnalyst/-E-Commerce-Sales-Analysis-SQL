@@ -1,4 +1,4 @@
-# -E-Commerce-Sales-Analysis-SQL
+# E-Commerce-Sales-Analysis-SQL
 A SQL-based data analysis project using E-commerce dataset
 # 📊 Key Findings — E-Commerce Sales Analysis
 *Generated: January 2026 | Dataset: 10,000+ transactions*
